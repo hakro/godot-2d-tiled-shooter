@@ -1,6 +1,6 @@
 extends KinematicBody2D
 
-const SPEED = 180
+const SPEED = 200
 
 func _process(delta):
 	
